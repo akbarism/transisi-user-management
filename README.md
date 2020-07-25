@@ -25,8 +25,8 @@
 
 ## Features
 
-- Users can add menu
-- can send order recepit with email
+- Add User
+- Update and Delete User
 - And others
 
 ## Requirements
